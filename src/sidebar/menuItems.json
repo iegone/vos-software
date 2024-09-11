@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Dashboard",
+    "icon": "dashboard",
+    "path": "/dashboard",
+    "submenu": []
+  },
+
+  {
+    "title": "DALEEL-BLOCK-5",
+    "icon": "OilWell",
+    "path": "/OilWell",
+    "submenu": [
+      {
+        "title": "DLE-AP",
+        "icon": "OilWell",
+        "path": "/OilWell/DALEEL-BLOCK-5",
+        "submenu": [
+          {
+            "title": "DLE-APt",
+            "icon": "OilWell",
+            "path": "/OilWell/DALEEL-BLOCK-5/rr",
+            "submenu": [
+              {
+                "title": "DLE-030H1",
+                "icon": "OilWell",
+                "path": "/OilWell/DALEEL-BLOCK-5/rr/tt",
+                "submenu": [
+                  {
+                    "title": "DLE-030H1 RIG-3",
+                    "icon": "OilWell",
+                    "path": "/OilWell/DALEEL-BLOCK-5/rr/tt"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Add",
+    "icon": "Add",
+    "path": "/add",
+    "submenu": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+    "title": "Data Management",
+    "icon": "database",
+    "path": "/data-management",
+    "submenu": [
+      {
+        "title": "Upload Data",
+        "icon": "upload",
+        "path": "/upload"
+      },
+
+      {
+        "title": "Edit Data",
+        "icon": "edit",
+        "path": "/edit"
+      }
+    ]
+},
+  {
+    "title": "Reports",
+    "icon": "file",
+    "path": "/reports",
+    "submenu": [
+      {
+        "title": "OilWell",
+        "icon": "OilWell",
+        "path": "/OilWell"
+      }
+    ]
+  },
+  {
+    "title": "Settings",
+    "icon": "settings",
+    "path": "/settings",
+    "submenu": []
+  }
+]
